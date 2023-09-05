@@ -13,6 +13,7 @@
 		F0C2BE992AA6BB7600AAF560 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F0C2BE972AA6BB7600AAF560 /* Main.storyboard */; };
 		F0C2BE9B2AA6BB7800AAF560 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F0C2BE9A2AA6BB7800AAF560 /* Assets.xcassets */; };
 		F0C2BE9E2AA6BB7800AAF560 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F0C2BE9C2AA6BB7800AAF560 /* LaunchScreen.storyboard */; };
+		F0C2BEA62AA6C7E200AAF560 /* Stopwatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0C2BEA52AA6C7E200AAF560 /* Stopwatch.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F0C2BE9A2AA6BB7800AAF560 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F0C2BE9D2AA6BB7800AAF560 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F0C2BE9F2AA6BB7800AAF560 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F0C2BEA52AA6C7E200AAF560 /* Stopwatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stopwatch.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				F0C2BE932AA6BB7600AAF560 /* SceneDelegate.swift */,
 				F0C2BE952AA6BB7600AAF560 /* ViewController.swift */,
 				F0C2BE972AA6BB7600AAF560 /* Main.storyboard */,
+				F0C2BEA52AA6C7E200AAF560 /* Stopwatch.swift */,
 				F0C2BE9A2AA6BB7800AAF560 /* Assets.xcassets */,
 				F0C2BE9C2AA6BB7800AAF560 /* LaunchScreen.storyboard */,
 				F0C2BE9F2AA6BB7800AAF560 /* Info.plist */,
@@ -141,6 +144,7 @@
 				F0C2BE962AA6BB7600AAF560 /* ViewController.swift in Sources */,
 				F0C2BE922AA6BB7600AAF560 /* AppDelegate.swift in Sources */,
 				F0C2BE942AA6BB7600AAF560 /* SceneDelegate.swift in Sources */,
+				F0C2BEA62AA6C7E200AAF560 /* Stopwatch.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
